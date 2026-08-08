@@ -14,7 +14,7 @@
     });
     if(phone&&!loaded){
       const box=phone.getBoundingClientRect();
-      if(box.top<height*.78&&box.bottom>height*.2){
+      if(box.top<height*.78){
         loaded=true;
         setTimeout(()=>phone.classList.add('is-loaded'),720);
       }
