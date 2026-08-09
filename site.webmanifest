@@ -1,0 +1,12 @@
+{
+  "name": "Vocalisto",
+  "short_name": "Vocalisto",
+  "description": "Guided vocal practice for warm-up, technique, performance and recovery.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#181814",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

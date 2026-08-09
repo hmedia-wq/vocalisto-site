@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f3f0e8"/>
+  <g fill="#181814">
+    <rect x="82" y="75" width="15" height="54" rx="7.5"/>
+    <rect x="108" y="42" width="15" height="120" rx="7.5"/>
+    <rect x="137" y="65" width="15" height="74" rx="7.5"/>
+    <rect x="166" y="53" width="15" height="98" rx="7.5"/>
+  </g>
+  <text x="218" y="123" fill="#181814" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing="12">VOCALISTO</text>
+  <text x="82" y="365" fill="#181814" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="700" letter-spacing="-8">Your voice,</text>
+  <text x="82" y="505" fill="#181814" font-family="Georgia, serif" font-size="148" font-style="italic">ready.</text>
+</svg>
